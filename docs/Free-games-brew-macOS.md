@@ -1,7 +1,9 @@
 ---
 layout: default
 ---
- 
+
+Date: March 4, 2022
+
 # Free games on Homebrew macOS
 
 [Install Homebrew](https://brew.sh)
