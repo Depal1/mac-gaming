@@ -1,7 +1,9 @@
 ---
 layout: default
 ---
- 
+
+Date: March 4, 2022
+
 # Gaming Resources and Homebrew macOS
 
 [Install Homebrew](https://brew.sh)
