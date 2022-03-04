@@ -1,5 +1,7 @@
 # Discord installation
 
+Date: March 4, 2022
+
 As of March 4, 2022, Discord's regular release does not support Apple Silicon natively.
 
 You can obtain the regular Discord release with
