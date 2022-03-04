@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 Based on a guide by [areapp](https://www.reddit.com/user/areapp/). Edited and published with permission from the origial author by
 [Depal1](https://github.com/Depal1).
 
