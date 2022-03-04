@@ -10,3 +10,4 @@ Index
 
 # Guides
 * [Update MoltenVK on Crossover](https://depal1.github.io/mac-gaming/docs/update-MoltenVK-on-Crossover)
+* [Change the DXVK installation on a Crossover Bottle](https://depal1.github.io/mac-gaming/docs/change-DXVK-installation-Crossover-bottle)
