@@ -9,4 +9,4 @@ Index
 * [Gaming resources on Homebrew](https://gist.github.com/Depal1/c637effadd1f6999c79b21dc9db253d3)
 
 # Guides
-* [Update MoltenVK on Crossover](https://github.com/Depal1/mac-gaming/blob/gh-pages/docs/update-MoltenVK-on-Crossover.md)
+* [Update MoltenVK on Crossover](https://depal1.github.io/mac-gaming/docs/update-MoltenVK-on-Crossover.md)
