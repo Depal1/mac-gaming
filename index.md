@@ -20,7 +20,7 @@ Index
 
 ### Xemu
 
-# Useful resources
+# Useful resources [External websites]
 * [Apple Gaming Wiki](https://www.applegamingwiki.com/wiki/Home)
 * [Does it arm](https://doesitarm.com)
 * [Macgamning.eu [associate]](https://macgaming.eu)
