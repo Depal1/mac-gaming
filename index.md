@@ -11,6 +11,7 @@ The sources for most emulators and apps can be found on the Homebrew Section. If
 ## Homebrew
 * [Free games on Homebrew macOS](https://gist.github.com/Depal1/9e10108531174c8fdeef1327d1e96fda)
 * [Gaming resources on Homebrew](https://gist.github.com/Depal1/c637effadd1f6999c79b21dc9db253d3)
+* [Discord](https://depal1.github.io/mac-gaming/docs/discord.html)
 
 ## Not on Homebrew
 * [PCSX2](https://github.com/tellowkrinkle/pcsx2)
