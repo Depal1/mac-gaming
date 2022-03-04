@@ -9,8 +9,8 @@ Index
 The sources for most emulators and apps can be found on the Homebrew Section. If you do not use Homebrew, you can still get the source from those lists.
 
 ## Homebrew
-* [Free games on Homebrew macOS](https://gist.github.com/Depal1/9e10108531174c8fdeef1327d1e96fda)
-* [Gaming resources on Homebrew](https://gist.github.com/Depal1/c637effadd1f6999c79b21dc9db253d3)
+* [Free games on Homebrew macOS](https://depal1.github.io/mac-gaming/docs/Free-games-brew-macOS.html)
+* [Gaming resources on Homebrew](https://depal1.github.io/mac-gaming/docs/game-brew-macOS.html)
 * [Discord](https://depal1.github.io/mac-gaming/docs/discord.html)
 
 ## Not on Homebrew
