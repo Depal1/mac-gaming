@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-
+ 
 # Free games on Homebrew macOS
 
 [Install Homebrew](https://brew.sh)
