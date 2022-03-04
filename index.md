@@ -19,6 +19,8 @@ Index
 ## Emulators
 
 ### Xemu
+* [Setting up Xemu [External website]](https://www.reddit.com/r/macgaming/comments/sprwab/how_to_setup_xemu_for_macs/)
+* [Converting Redump ISO to XISO [External website]](https://www.reddit.com/r/macgaming/comments/sin4nu/how_to_convert_an_xbox_iso_to_xiso_and_apply_mods/)
 
 # Useful resources [External websites]
 * [Apple Gaming Wiki](https://www.applegamingwiki.com/wiki/Home)
