@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-
+ 
 # Gaming Resources and Homebrew macOS
 
 [Install Homebrew](https://brew.sh)
