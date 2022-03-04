@@ -5,7 +5,7 @@ layout: default
 Based on a guide by [areapp](https://www.reddit.com/user/areapp/). Edited and published with permission from the origial author by
 [Depal1](https://github.com/Depal1). March 4, 2022.
 
-# Chenge the DXVK installation on a Crossover Bottle
+# Change the DXVK installation on a Crossover Bottle
 
 **Disclaimer: this can either improve or hinder performance on some games. Use with discretion.
 It is recommended to have a separate bottle for modified DXVK installations.**
