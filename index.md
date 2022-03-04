@@ -21,7 +21,7 @@ The sources for most emulators and apps can be found on the Homebrew Section. If
 ## Crossover
 * [Update MoltenVK on Crossover](https://depal1.github.io/mac-gaming/docs/update-MoltenVK-on-Crossover.html)
 * [Change the DXVK installation on a Crossover Bottle](https://depal1.github.io/mac-gaming/docs/change-DXVK-installation-Crossover-bottle.html)
-* [Enabling the DXVK HUD on Crossover](https://depal1.github.io/mac-gaming/docs/enabling-the-DXVK-HUD-Crossover.html)
+* [Enabling the DXVK HUD on Crossover](https://depal1.github.io/mac-gaming/docs/enabling-DXVK-HUD-Crossover.html)
 * [Create Heroic Games Launcher Bottle in CrossOver [External website]](https://www.codeweavers.com/support/wiki/mac/mactutorial/heroiclauncher)
 
 ## Emulators
