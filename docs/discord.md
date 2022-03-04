@@ -13,3 +13,5 @@ For better performance on Apple Silicon you will need Discord Canary. This one d
 ```
 brew tap cask-versions/discord-canary
 ```
+
+[back](https://depal1.github.io/mac-gaming/)
