@@ -41,6 +41,7 @@ The following apps are available as casks. Install them by typing `brew install 
 * [boxer](https://formulae.brew.sh/cask/boxer#default)
 * [fs-uae](https://formulae.brew.sh/cask/fs-uae#default)
 * [fs-uae-launcher](https://formulae.brew.sh/cask/fs-uae-launcher#default)
+* [snes9x](https://formulae.brew.sh/cask/snes9x#default)
 
 	**Netplay**
 	* [slippi-dolphin](https://formulae.brew.sh/cask/slippi-dolphin#default)
