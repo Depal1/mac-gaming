@@ -39,8 +39,10 @@ The following apps are available as casks. Install them by typing `brew install 
 * [vamiga](https://formulae.brew.sh/cask/vamiga#default)
 * [sameboy](https://formulae.brew.sh/cask/sameboy#default)
 * [boxer](https://formulae.brew.sh/cask/boxer#default)
+* [fs-uae](https://formulae.brew.sh/cask/fs-uae#default)
+* [fs-uae-launcher](https://formulae.brew.sh/cask/fs-uae-launcher#default)
 
-	### Netplay
+	**Netplay**
 	* [slippi-dolphin](https://formulae.brew.sh/cask/slippi-dolphin#default)
 
 ## Wine
