@@ -16,6 +16,7 @@ The sources for most emulators and apps can be found on the Homebrew Section. If
 ## Not on Homebrew
 * [PCSX2](https://github.com/tellowkrinkle/pcsx2)
 * [RPCS3](https://cirrus-ci.com/github/RPCS3/rpcs3)
+* [FOSS Crossover](https://depal1.github.io/mac-gaming/docs/foss-crossover.html)
 
 # Guides
 
