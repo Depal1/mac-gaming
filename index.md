@@ -14,8 +14,8 @@ The sources for most emulators and apps can be found on the Homebrew Section. If
 * [Discord](https://depal1.github.io/mac-gaming/docs/discord.html)
 
 ## Not on Homebrew
-* [PCSX2](https://github.com/tellowkrinkle/pcsx2)
-* [RPCS3](https://cirrus-ci.com/github/RPCS3/rpcs3)
+* [PCSX2](https://pcsx2.net/downloads/): PS2 emulator *(Download nightly builds)*
+* [RPCS3](https://rpcs3.net/download): PS3 emulator
 * [FOSS Crossover](https://depal1.github.io/mac-gaming/docs/foss-crossover.html)
 
 # Guides
@@ -36,12 +36,12 @@ The sources for most emulators and apps can be found on the Homebrew Section. If
 The following resources are all from external websites.
 * [Apple Gaming Wiki](https://www.applegamingwiki.com/wiki/Home)
 * [Does it arm](https://doesitarm.com)
-* [Macgaming.eu [associate]](https://macgaming.eu)
+* [Macgaming.eu](https://macgaming.eu)
 * [State of mac](https://www.stateofmac.com)
 
 ## Video
 * [Andrew Tsai](https://www.youtube.com/channel/UCJ-hl32h5CokBhlGu95C1Xg)
-* [MAC Gaming [associate]](https://www.youtube.com/channel/UCXTo-ML-2AhN9MK4uBTVBGg)
+* [MAC Gaming](https://www.youtube.com/channel/UCXTo-ML-2AhN9MK4uBTVBGg)
 
 ## Discord
 * [Apple Gaming Wiki](https://discord.gg/28CAAr6SpB)
