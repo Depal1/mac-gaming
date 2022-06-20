@@ -41,7 +41,7 @@ The following resources are all from external websites.
 
 ## Video
 * [Andrew Tsai](https://www.youtube.com/channel/UCJ-hl32h5CokBhlGu95C1Xg)
-* [MAC Gaming](https://www.youtube.com/channel/UCXTo-ML-2AhN9MK4uBTVBGg)
+* [lleial](https://www.youtube.com/channel/UCXTo-ML-2AhN9MK4uBTVBGg)
 
 ## Discord
 * [Apple Gaming Wiki](https://discord.gg/28CAAr6SpB)
