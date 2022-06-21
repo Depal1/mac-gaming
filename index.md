@@ -38,6 +38,7 @@ The following resources are all from external websites.
 * [Does it arm](https://doesitarm.com)
 * [Macgaming.eu](https://macgaming.eu)
 * [State of mac](https://www.stateofmac.com)
+* [Mac Emulation DB](https://rioharris.me/macemulationdb/)
 
 ## Video
 * [Andrew Tsai](https://www.youtube.com/channel/UCJ-hl32h5CokBhlGu95C1Xg)
