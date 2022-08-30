@@ -59,7 +59,7 @@ The following apps are available as casks. Install them by typing `brew install 
 * [vmware-fusion](https://formulae.brew.sh/cask/vmware-fusion#default)
 
 ## Sideloading
-* [playcover](https://formulae.brew.sh/cask/playcover#default)
+* [playcover-community](https://formulae.brew.sh/cask/playcover-community#default)
 
 ## Minecraft
 * [minecraft](https://formulae.brew.sh/cask/minecraft#default)
