@@ -65,6 +65,7 @@ The following apps are available as casks. Install them by typing `brew install 
 * [minecraft](https://formulae.brew.sh/cask/minecraft#default)
 * [lunar-client](https://formulae.brew.sh/cask/lunar-client#default)
 * [multimc](https://formulae.brew.sh/cask/multimc#default)
+* [prismlauncher](https://formulae.brew.sh/cask/prismlauncher#default)
 
 ## Other
 * [scummvm](https://formulae.brew.sh/cask/scummvm#default)
