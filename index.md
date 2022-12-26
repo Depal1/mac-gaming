@@ -14,10 +14,10 @@ The sources for most emulators and apps can be found on the Homebrew Section. If
 * [Discord](https://depal1.github.io/mac-gaming/docs/discord.html)
 
 ## Not on Homebrew
+* [FOSS Crossover](https://depal1.github.io/mac-gaming/docs/foss-crossover.html)
 * [PCSX2](https://pcsx2.net/downloads/): PS2 emulator *(Download nightly builds)*
 * [RPCS3](https://rpcs3.net/download): PS3 emulator
-* [FOSS Crossover](https://depal1.github.io/mac-gaming/docs/foss-crossover.html)
-* [Ryujinx](https://ryujinx.org/download)
+* [Ryujinx](https://ryujinx.org/download): Nintendo Switch emulator
 
 # Guides
 
